@@ -1212,7 +1212,7 @@ CSS. The following CSS really makes our errors stand out::
 
 While it's convenient to have our form's HTML generated for us, in many
 cases you'll want to override the default rendering. ``{{ form.as_table }}``
-and friends are useful shortcuts while you develop your application, but
+and fields are useful shortcuts while you develop your application, but
 everything about the way a form is displayed can be overridden, mostly within
 the template itself, and you'll probably find yourself doing this.
 
